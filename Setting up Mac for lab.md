@@ -12,7 +12,7 @@
 
 6. Select download. Be patient; depending on your download speeds, this could take a couple of hours.
 
-[![Screenshot: App Store](https://triodocs.org/install/build/mac/img/xc-appstore.png)]
+![Screenshot: App Store](https://triodocs.org/install/build/mac/img/xc-appstore.png)
 
 
 7. the Xcode application will be available from your Launchpad or Applications file once the download is complete.
