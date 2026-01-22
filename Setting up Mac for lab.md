@@ -23,20 +23,25 @@
 
 2. From the menu bar, select **File → New → Project**.
 
+![[xcode menu.png]]
+
 3. In the template selection window, choose **macOS**.
 
 4. Select **Command Line Tool** from the available templates.​
 
-5. Click **Next**.
+![[xcode template.png]]
+3. Click **Next**.
 
-6. Configure your project settings:
+4. Configure your project settings:
 	- **Product Name**: Enter your project name (e.g., "c-programming-lab")
 	- **Language**: Select **C** from the dropdown menu​
 	- **Organization Identifier**: Enter any identifier (e.g., com.yourname)
 
-7. Choose location where to save your project
+![[xcode configurations.png]]
 
-8. Click **Create** to finish.
+5. Choose location where to save your project
+
+6. Click **Create** to finish.
 
 ## Writing and Running Your Code
 
@@ -44,13 +49,19 @@
 
 2. Click on **main.c** to open it in the editor.
 
+![[xcode main.c.png]]
+
 3. Write or edit your C code in the main editor window.
 
-4. To create a new C file, select **File → New → File**, then choose **C File**.
+4. To create a new C file, select **File → New → Empty File**, then rename the file to `filename.c` (e.g., "myprogram.c").
+
+![[xcode newfile.png]]
 
 5. Press **⌘ + R** to compile and run your program.​
 
 6. Alternatively, click the triangular Play button in the top-left corner.​
+
+![[xcode run.png]]
 
 7. Your program output will appear in the console at the bottom of the Xcode window.​
 
