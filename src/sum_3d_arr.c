@@ -31,7 +31,7 @@ int sumMatrix(int arr[][COLS], int rows) {
     int sum = 0;
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < COLS; j++) {
-            sum += arr[i][j];
+            sum += *((arr[i] + j));
         }
     }
     return sum;
