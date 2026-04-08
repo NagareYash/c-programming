@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define DEBUG   /* Comment this line out to disable debug mode */
+// #define DEBUG   /* Comment this line out to disable debug mode */
 
 int main() {
     int x = 10;
